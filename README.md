@@ -1,4 +1,4 @@
-# Restaurant-Project
+# RestaurantProject
 - Author: 
 Peizhou Zhang (101110707)
 
